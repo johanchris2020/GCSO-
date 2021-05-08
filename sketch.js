@@ -16,7 +16,6 @@ function setup() {
 }
 
 function draw() {
-git
   background(0,0,0);
    if(hasCollided(bullet, wall)){
  
